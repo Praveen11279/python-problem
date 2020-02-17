@@ -1,0 +1,18 @@
+a=input()
+while(a):
+    b=input()
+    print(b)
+    if (b=="q"):
+        break
+        
+'''
+
+sample input
+ th
+sample output
+ th
+sample input
+ Q
+sample output
+>>>
+'''
